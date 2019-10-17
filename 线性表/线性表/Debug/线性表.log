@@ -1,0 +1,5 @@
+﻿  线性表.cpp
+d:\数据结构\线性表\线性表\status.h(8): warning C4005: “OVERFLOW”: 宏重定义
+  d:\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math.h(967): note: 参见“OVERFLOW”的前一个定义
+d:\数据结构\线性表\线性表\线性表.cpp(51): error C4716: “PriorElem”: 必须返回一个值
+d:\数据结构\线性表\线性表\线性表.cpp(52): error C4716: “NextElem”: 必须返回一个值
