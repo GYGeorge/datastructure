@@ -1,0 +1,5 @@
+﻿  课设3.cpp
+d:\数据结构\课设3\课设3\status.h(7): warning C4005: “OVERFLOW”: 宏重定义
+  d:\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math.h(967): note: 参见“OVERFLOW”的前一个定义
+d:\数据结构\课设3\课设3\tree.h(40): warning C4715: “BiTreeDepth_Child_Sibling”: 不是所有的控件路径都返回值
+  课设3.vcxproj -> D:\数据结构\课设3\Debug\课设3.exe

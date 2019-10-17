@@ -1,0 +1,27 @@
+{
+"firstName": "John",
+"code": {
+"ID": "029",
+"rank": "last"
+},
+"lastName": "Smith",
+"address": {
+"streetAddress": "2ndStreet",
+"city": "NewYork",
+"state": "NY",
+"qwq": {
+"ez": "noez",
+"ssd": "buyssd"
+}
+},
+"esc\\aped": "\"hello\""
+}
+firstName
+code
+code.ID
+address.qwq.ez
+address.qwq.noway
+address
+address.city
+address.postal
+esc\aped
