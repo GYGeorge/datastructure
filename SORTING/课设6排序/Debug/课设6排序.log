@@ -1,0 +1,7 @@
+﻿  课设6排序.cpp
+d:\数据结构\课设6排序\课设6排序\quicksort.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\数据结构\课设6排序\课设6排序\quicksort.h(8): warning C4101: “temp”: 未引用的局部变量
+d:\数据结构\课设6排序\课设6排序\heapsort.h(23): warning C4101: “temp”: 未引用的局部变量
+d:\数据结构\课设6排序\课设6排序\selectsort.h(18): warning C4101: “temp”: 未引用的局部变量
+d:\数据结构\课设6排序\课设6排序\课设6排序.cpp(255): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  课设6排序.vcxproj -> D:\数据结构\课设6排序\Debug\课设6排序.exe
